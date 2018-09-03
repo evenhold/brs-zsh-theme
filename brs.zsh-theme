@@ -1,3 +1,7 @@
+# Author: Franz Victorio 
+# Email: evenhold@gmail.com
+
+
 #BRS zsh-theme
 
 local g_status="%(?:%{$fg_bold[white]%}
