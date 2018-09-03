@@ -1,3 +1,4 @@
 # BRS theme oh-my-zsh
 
-![term](https://github.com/evenhold/brs-zsh-theme/screenshots/brs-zsh-theme)
+![term](https://raw.githubusercontent.com/evenhold/brs-zsh-theme/master/screenshots/brs-zsh-theme.png)
+
